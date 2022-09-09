@@ -1,8 +1,8 @@
 #nclude <stdio.h>
 /**
  *main - entry point
- *first comment
- *Return: 0 after printing the function
+ *
+ *Return: 0 after printing the fonction
  */
 int main(void)
 {
