@@ -8,7 +8,7 @@
  * Return: Always 0 (Sucess/correct)
  */
 
-int maint(void)
+int main(void)
 {
   int n;
 
