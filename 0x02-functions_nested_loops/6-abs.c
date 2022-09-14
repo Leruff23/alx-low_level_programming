@@ -12,4 +12,4 @@ return (c);
 }
 else
 return (c * -1);
-}	   
+}
