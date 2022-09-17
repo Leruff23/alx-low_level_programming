@@ -1,20 +1,20 @@
-#include <stdio.h>
 #include "main.h"
 
 /**
- * print_numbers - function that print all numbers from
- * 0 to 9
- *
- * Return: returns nothing
+ * print_numbers - print numbers
+ * Return: Always 0.
  */
 
 void print_numbers(void)
 {
-int n;
+int i;
 
-for (n = 48, n < 58; n++)
-{
-putchar(n);
-}
-putchar(10);
+ i = 0;
+ while (i < 10)
+   {
+     _putchar (i + '0');
+     i++;
+   }
+
+ _putchar c'\n');
 }
