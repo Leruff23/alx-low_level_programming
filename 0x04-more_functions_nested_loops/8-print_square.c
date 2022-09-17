@@ -3,7 +3,7 @@
 
 /**
  *print_square - prints squares
- *@size: paramater
+ *@size: parameter
  *Return: returns nothing
  */
 
