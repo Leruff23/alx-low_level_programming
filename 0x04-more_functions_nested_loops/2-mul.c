@@ -2,9 +2,9 @@
 
 /**
  *mul - multiplies two numbers
- *@a: first number
- *@b: second number
- *Return - returns result
+ *@a: print int
+ *@b: print int
+ *Return - Always 0.
  */
 
 int mul(int a, int b)
