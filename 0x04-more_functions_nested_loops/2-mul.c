@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  *mul - multiplies two numbers
  *@a: print int
