@@ -7,15 +7,15 @@
  *Return: void
  */
 
-void rev_strinng(char *s)
+void rev_string(char *s)
 {
-char *sart_c, *end_c, c;
+char *start_c, *end_c, c;
 int i, count;
-int lenght = 0;
+int length = 0;
 
-for (i = 0, s[i], i++)
+for (i = 0; s[i], i++)
 {
-lenght++;
+length++;
 }
 
 count = length;
