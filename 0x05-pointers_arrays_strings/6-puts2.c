@@ -1,4 +1,4 @@
- #include "main.h"
+#include "main.h"
 
  /**
  *puts2 - prints every chararacter of a string
