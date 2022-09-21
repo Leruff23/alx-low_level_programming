@@ -4,7 +4,6 @@
  *puts2 - prints every character of a string
  *@str: A pointer to an int that will be changed
  *
- *Description: print one char out of 2 string
  *Return: void.
  */
 
