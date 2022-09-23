@@ -13,8 +13,7 @@ int main(void)
   i = 1;
   while (i <= p)
     {
-      if (i <= p)
-	{i % 3 == 0 && i % 5 == 0)
+      if (i % 3 == 0 && i % 5 == 0)
 	  {
 	    printf("FizzBuzz ");
 	  }
