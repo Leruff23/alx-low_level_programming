@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
  * main - Entry point
  *
@@ -25,12 +26,12 @@ int main(void)
 
 	  else if (i % 5 == 0)
 	    {
-	      if ( i < p)
+	      if (i < p)
 		printf("Buzz ");
 	    }
 
 	  else
-	    printf("%i ", i)
+	    printf("%i ", i);
 	      }
 
   i++;
