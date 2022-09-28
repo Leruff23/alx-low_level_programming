@@ -4,7 +4,7 @@
  *_strpbrk - searches a string for any of a set of bytes
  *
  *@s: pointer that contains the address of the string to be evaluated
- *@acceot: pointer that contains the string to evaluate s
+ *@accept: pointer that contains the string to evaluate s
  *
  *Return: address of the first occurence of accept in the string
  */
