@@ -32,5 +32,5 @@ if (k == 0)
 break;
 }
 }
-return (1);
+return (i);
 }
